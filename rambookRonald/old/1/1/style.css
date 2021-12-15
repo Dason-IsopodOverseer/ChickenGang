@@ -1,0 +1,88 @@
+
+
+body {
+	background-color: honeydew;
+	margin:0px;
+	display:flex;
+	
+	flex-direction: column;
+}
+
+#maincontainer {
+	margin: 50px;
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	background-color:white;
+	border: 2px solid;
+	
+}
+
+.header {
+	background-color:white;
+	overflow:hidden;
+	padding: 5px 25px 0px 25px;
+
+}
+
+h1 {
+	margin:0px;
+}
+
+.headerlinks {
+	overflow:hidden;
+	text-align:left;
+	align-items: center;
+	border-bottom: 2px solid;
+	padding: 15px 25px 15px 25px;
+	background-color: white;
+	
+}
+
+#formcontainer {
+	display: flex;
+	padding: 13px;
+	
+}
+
+
+#form {
+	
+}
+
+
+
+.error {
+	color: red;
+	
+}
+
+.spacing {
+	display:block;
+	height:20px;
+	
+}
+
+input {
+	margin: 5px 5px 5px 5px;
+	
+}
+
+#grade {
+	display: inline;
+}
+
+#gradeselect {
+	display:inline;
+	
+}
+
+#self {
+	width: 600px;
+	height: 200px;
+	
+}
+
+
+
+

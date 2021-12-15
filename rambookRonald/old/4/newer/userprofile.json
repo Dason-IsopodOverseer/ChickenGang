@@ -1,0 +1,29 @@
+[
+    {
+        "name": "first",
+        "perms": "t",
+        "connection": "student",
+        "grade": "11",
+        "self": "sdasd",
+        "id": 0,
+        "imagetype": "png"
+    },
+    {
+        "name": "second",
+        "perms": "t",
+        "connection": "alumni",
+        "grade": 0,
+        "self": "asd",
+        "id": 1,
+        "imagetype": "png"
+    },
+    {
+        "name": "third",
+        "perms": "t",
+        "connection": "student",
+        "grade": "10",
+        "self": "asd",
+        "id": 2,
+        "imagetype": "png"
+    }
+]

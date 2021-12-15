@@ -1,0 +1,58 @@
+body {
+	display:flex;
+	margin: 50px;
+	background-color: honeydew;
+	justify-content:center;
+}
+
+#maincontainer {
+	display:flex;
+	flex-direction: column;
+	background-color:white;
+	border: 2px solid;
+}
+
+#header {
+	display:block;
+	text-align:center;
+	border-bottom: 2px solid;
+}
+
+#formcontainer {
+	display: flex;
+	padding: 13px;
+}
+
+
+#form {
+	
+}
+
+h1 {
+	line-height:20px;
+}
+
+.spacing {
+	display:block;
+	height:20px;
+	
+}
+
+input {
+	margin: 5px 5px 5px 5px;
+	
+}
+
+#grade {
+	display: none;
+}
+
+#self {
+	width: 600px;
+	height: 200px;
+	
+}
+
+
+
+

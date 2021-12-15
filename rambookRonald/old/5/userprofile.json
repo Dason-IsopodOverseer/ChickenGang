@@ -1,0 +1,29 @@
+[
+    {
+        "name": "crow",
+        "perms": "t",
+        "connection": "student",
+        "grade": "9",
+        "self": "am crow",
+        "id": 0,
+        "imagetype": "jpg"
+    },
+    {
+        "name": "cheems",
+        "perms": "t",
+        "connection": "staff",
+        "grade": 0,
+        "self": "cheemsburger",
+        "id": 1,
+        "imagetype": "png"
+    },
+    {
+        "name": "frog",
+        "perms": "t",
+        "connection": "staff",
+        "grade": 0,
+        "self": "am frog",
+        "id": 2,
+        "imagetype": "jpg"
+    }
+]

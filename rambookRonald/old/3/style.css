@@ -1,0 +1,101 @@
+
+
+body {
+	background-color: honeydew;
+	margin:0px;
+	font-family: Helvetica;
+	flex-direction: column;
+}
+
+.header {
+	background-color:white;
+	overflow:hidden;
+	padding: 5px 25px 0px 25px;
+
+}
+
+h1 {
+	margin:10px;
+}
+
+.navbar {
+	overflow:hidden;
+	text-align:left;
+	align-items: center;
+	padding: 15px 25px 15px 25px;
+	background-color: #3b4e3b;
+	
+}
+
+
+.navbarlink {
+    float:left;
+	margin-right: 0px;
+	padding: 0px 15px;
+	font-size:16px;
+	color: white;
+	text-decoration: none;
+}
+
+.navbarlink:hover {
+    color:lightgray;
+	
+}
+
+.maincontainer {
+	margin: 0px;
+	justify-content:center;
+	
+}
+
+
+.formcontainer {
+	display: flex;
+	margin: 50px auto;
+	width: fit-content;
+	padding: 13px;
+	background-color: white;
+	border: 2px solid;
+	flex-direction:column;
+}
+
+.submittedbox {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.error {
+	color: red;
+	
+}
+
+.spacing {
+	display:block;
+	height:20px;
+	
+}
+
+input {
+	margin: 5px;
+	
+}
+
+#grade {
+	display: inline;
+}
+
+#gradeselect {
+	display:inline;
+	
+}
+
+#self {
+	width: 600px;
+	height: 200px;
+	
+}
+
+
+
+
